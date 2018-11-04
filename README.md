@@ -1,5 +1,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/igorkamyshev/react-timeline-scribble.svg?branch=master)](https://travis-ci.org/igorkamyshev/react-timeline-scribble)
 [![npm version](https://badge.fury.io/js/react-timeline-scribble.svg)](https://badge.fury.io/js/react-timeline-scribble)
 
 # react-timeline-scribble
@@ -9,8 +8,6 @@ React Timeline component
 `yarn add react-timeline-scribble`
 
 ## Usage
-
-[![Edit react-timeline-scribble-example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/03r33x0oxl)
 
 ```js
 import React, { Fragment } from "react";
